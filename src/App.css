@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: darkblue;
+}
+#preview {
+  min-width: 80vw;
+  min-height: 50%;
+  border: 1px solid black; 
+  background-color: lightblue; 
+}
+#editor {
+  min-width: 80vw;
+  height: 100px;
+  background-color: lightblue
+
+}
+.title {
+  margin-bottom: 0;
+  color: white;
+}
