@@ -14,7 +14,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/KamogeloMahlake/markdown_preview.git
 cd markdown_preview
 npm install
-
+```
 
 ## Usage
 Run the application:
